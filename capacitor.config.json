@@ -1,0 +1,6 @@
+{
+  "appId": "com.my.quran.tanpa.iklan",
+  "appName": "Al Quran Tanpa Iklan",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
